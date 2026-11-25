@@ -10,9 +10,9 @@ const geist = Geist({
 })
 
 export const metadata: Metadata = {
-  title: "Anjan P - Full Stack Developer & DSA Enthusiast",
+  title: "Anjan P - Full-Stack Software Developer & AI / Data Science Enthusiast",
   description:
-    "Full Stack Developer with expertise in DSA, Data Analysis, and modern web technologies. Undergraduate at City Engineering College.",
+    "Full-Stack Software Developer & AI / Data Science Enthusiast building AI-powered applications, real-time voice and RAG/LLM pipelines, and data-driven web platforms. B.E. CSE at City Engineering College, Bengaluru.",
   generator: "v0.app",
 }
 
